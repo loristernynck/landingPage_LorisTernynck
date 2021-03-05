@@ -1,0 +1,25 @@
+.jumbotron-hero
+   {
+  height: 400px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("https://www.le-refuge.org/wp-content/uploads/2020/03/theo_film_chapitre_1_le-refuge.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: 
+}
+
+.soustitre
+{
+  color: white;
+}
+
+.titre
+  {
+    text-align: center;
+    padding-bottom: 60px
+  }
